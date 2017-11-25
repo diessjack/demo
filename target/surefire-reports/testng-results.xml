@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="17397" started-at="2017-11-01T08:39:43Z" finished-at="2017-11-01T08:40:01Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="17397" started-at="2017-11-01T08:39:43Z" finished-at="2017-11-01T08:40:01Z">
+      <class name="Academy.HomePage">
+        <test-method status="PASS" signature="homepageNavigetion(java.lang.String, java.lang.String)[pri:0, instance:Academy.HomePage@16150369]" name="homepageNavigetion" duration-ms="5097" started-at="2017-11-01T01:39:43Z" data-provider="getData" finished-at="2017-11-01T01:39:49Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[fenghaoshu@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[123456]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- homepageNavigetion -->
+        <test-method status="PASS" signature="homepageNavigetion(java.lang.String, java.lang.String)[pri:0, instance:Academy.HomePage@16150369]" name="homepageNavigetion" duration-ms="4706" started-at="2017-11-01T01:39:49Z" data-provider="getData" finished-at="2017-11-01T01:39:53Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[test1]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[test2]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- homepageNavigetion -->
+      </class> <!-- Academy.HomePage -->
+      <class name="Academy.validateTitle">
+        <test-method status="PASS" signature="Initialize()[pri:0, instance:Academy.validateTitle@6b09fb41]" name="Initialize" is-config="true" duration-ms="2518" started-at="2017-11-01T01:39:58Z" finished-at="2017-11-01T01:40:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Initialize -->
+        <test-method status="PASS" signature="titlecheck()[pri:0, instance:Academy.validateTitle@6b09fb41]" name="titlecheck" duration-ms="54" started-at="2017-11-01T01:40:01Z" finished-at="2017-11-01T01:40:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- titlecheck -->
+        <test-method status="PASS" signature="clos()[pri:0, instance:Academy.validateTitle@6b09fb41]" name="clos" is-config="true" duration-ms="71" started-at="2017-11-01T01:40:01Z" finished-at="2017-11-01T01:40:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clos -->
+      </class> <!-- Academy.validateTitle -->
+      <class name="Academy.validateNavigationBar">
+        <test-method status="PASS" signature="initialize()[pri:0, instance:Academy.validateNavigationBar@624ea235]" name="initialize" is-config="true" duration-ms="2561" started-at="2017-11-01T01:39:53Z" finished-at="2017-11-01T01:39:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method status="PASS" signature="Navbar()[pri:0, instance:Academy.validateNavigationBar@624ea235]" name="Navbar" duration-ms="56" started-at="2017-11-01T01:39:56Z" finished-at="2017-11-01T01:39:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Navbar -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:Academy.validateNavigationBar@624ea235]" name="teardown" is-config="true" duration-ms="2318" started-at="2017-11-01T01:39:56Z" finished-at="2017-11-01T01:39:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- Academy.validateNavigationBar -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

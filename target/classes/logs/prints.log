@@ -1,0 +1,356 @@
+01:58:39.020 [main] INFO  Academy.validateNavigationBar - ebay home page opened to check navbar
+01:58:39.071 [main] INFO  Academy.validateNavigationBar - navbar checked
+01:58:41.592 [main] INFO  Academy.validateTitle - Driver is initialized to ebay HomePage
+01:58:41.644 [main] INFO  Academy.validateTitle - title checked
+01:59:33.029 [main] INFO  resources.base - Load the properties file success
+01:59:35.952 [main] INFO  Academy.HomePage - =============Test Begin===============
+01:59:36.584 [main] DEBUG Academy.HomePage - Click on login button
+01:59:36.809 [main] INFO  Academy.HomePage - email address input
+01:59:36.862 [main] INFO  Academy.HomePage - password input
+01:59:37.647 [main] DEBUG Academy.HomePage - login btn clicked
+01:59:39.961 [main] INFO  resources.base - Load the properties file success
+01:59:42.528 [main] INFO  Academy.HomePage - =============Test Begin===============
+01:59:43.706 [main] DEBUG Academy.HomePage - Click on login button
+01:59:43.764 [main] INFO  Academy.HomePage - email address input
+01:59:43.816 [main] INFO  Academy.HomePage - password input
+01:59:45.149 [main] DEBUG Academy.HomePage - login btn clicked
+01:59:47.461 [main] INFO  resources.base - Load the properties file success
+01:59:50.068 [main] INFO  Academy.validateNavigationBar - ebay home page opened to check navbar
+01:59:50.131 [main] INFO  Academy.validateNavigationBar - navbar checked
+01:59:50.180 [main] INFO  resources.base - Load the properties file success
+01:59:52.978 [main] INFO  Academy.validateTitle - Driver is initialized to ebay HomePage
+01:59:53.029 [main] INFO  Academy.validateTitle - title checked
+02:00:18.325 [main] INFO  resources.base - Load the properties file success
+02:00:21.242 [main] INFO  Academy.HomePage - =============Test Begin===============
+02:00:21.845 [main] DEBUG Academy.HomePage - Click on login button
+02:00:22.084 [main] INFO  Academy.HomePage - email address input
+02:00:22.137 [main] INFO  Academy.HomePage - password input
+02:00:22.951 [main] DEBUG Academy.HomePage - login btn clicked
+02:00:25.262 [main] INFO  resources.base - Load the properties file success
+02:00:27.916 [main] INFO  Academy.HomePage - =============Test Begin===============
+02:00:28.511 [main] DEBUG Academy.HomePage - Click on login button
+02:00:28.687 [main] INFO  Academy.HomePage - email address input
+02:00:28.733 [main] INFO  Academy.HomePage - password input
+02:00:29.582 [main] DEBUG Academy.HomePage - login btn clicked
+02:00:31.906 [main] INFO  resources.base - Load the properties file success
+02:00:34.467 [main] INFO  Academy.validateNavigationBar - ebay home page opened to check navbar
+02:00:34.503 [main] INFO  Academy.validateNavigationBar - navbar checked
+02:00:34.581 [main] INFO  resources.base - Load the properties file success
+02:00:37.227 [main] INFO  Academy.validateTitle - Driver is initialized to ebay HomePage
+02:00:37.282 [main] INFO  Academy.validateTitle - title checked
+02:38:30.583 [main] INFO  resources.base - Load the properties file success
+02:38:33.698 [main] INFO  Academy.HomePage - =============Test Begin===============
+02:38:34.830 [main] DEBUG Academy.HomePage - Click on login button
+02:38:34.910 [main] INFO  Academy.HomePage - email address input
+02:38:34.961 [main] INFO  Academy.HomePage - password input
+02:38:36.128 [main] DEBUG Academy.HomePage - login btn clicked
+02:38:38.442 [main] INFO  resources.base - Load the properties file success
+02:38:41.044 [main] INFO  Academy.HomePage - =============Test Begin===============
+02:38:41.556 [main] DEBUG Academy.HomePage - Click on login button
+02:38:41.772 [main] INFO  Academy.HomePage - email address input
+02:38:41.824 [main] INFO  Academy.HomePage - password input
+02:38:42.743 [main] DEBUG Academy.HomePage - login btn clicked
+02:38:45.057 [main] INFO  resources.base - Load the properties file success
+02:38:47.678 [main] INFO  Academy.validateNavigationBar - ebay home page opened to check navbar
+02:38:47.738 [main] INFO  Academy.validateNavigationBar - navbar checked
+02:38:47.792 [main] INFO  resources.base - Load the properties file success
+02:38:50.462 [main] INFO  Academy.validateTitle - Driver is initialized to ebay HomePage
+02:38:50.511 [main] INFO  Academy.validateTitle - title checked
+02:39:12.178 [main] INFO  resources.base - Load the properties file success
+02:39:15.184 [main] INFO  Academy.HomePage - =============Test Begin===============
+02:39:16.172 [main] DEBUG Academy.HomePage - Click on login button
+02:39:16.265 [main] INFO  Academy.HomePage - email address input
+02:39:16.318 [main] INFO  Academy.HomePage - password input
+02:39:17.369 [main] DEBUG Academy.HomePage - login btn clicked
+02:39:19.683 [main] INFO  resources.base - Load the properties file success
+02:39:22.378 [main] INFO  Academy.HomePage - =============Test Begin===============
+02:39:22.915 [main] DEBUG Academy.HomePage - Click on login button
+02:39:23.197 [main] INFO  Academy.HomePage - email address input
+02:39:23.243 [main] INFO  Academy.HomePage - password input
+02:39:24.043 [main] DEBUG Academy.HomePage - login btn clicked
+02:39:24.100 [main] INFO  resources.base - Load the properties file success
+02:39:26.718 [main] INFO  Academy.validateNavigationBar - ebay home page opened to check navbar
+02:39:26.769 [main] INFO  Academy.validateNavigationBar - navbar checked
+02:39:26.822 [main] INFO  resources.base - Load the properties file success
+02:39:29.385 [main] INFO  Academy.validateTitle - Driver is initialized to ebay HomePage
+02:41:11.399 [main] INFO  resources.base - Load the properties file success
+02:41:14.281 [main] INFO  Academy.HomePage - =============Test Begin===============
+02:41:14.884 [main] DEBUG Academy.HomePage - Click on login button
+02:41:15.125 [main] INFO  Academy.HomePage - email address input
+02:41:15.177 [main] INFO  Academy.HomePage - password input
+02:41:16.053 [main] DEBUG Academy.HomePage - login btn clicked
+03:32:28.845 [main] INFO  resources.base - Load the properties file success
+03:32:31.914 [main] INFO  Academy.HomePage - =============Test Begin===============
+03:32:33.122 [main] DEBUG Academy.HomePage - Click on login button
+03:32:33.208 [main] INFO  Academy.HomePage - email address input
+03:32:33.266 [main] INFO  Academy.HomePage - password input
+03:32:34.305 [main] DEBUG Academy.HomePage - login btn clicked
+03:35:15.111 [main] INFO  resources.base - Load the properties file success
+03:35:18.205 [main] INFO  Academy.HomePage - =============Test Begin===============
+03:35:19.241 [main] DEBUG Academy.HomePage - Click on login button
+03:35:19.372 [main] INFO  Academy.HomePage - email address input
+03:35:19.437 [main] INFO  Academy.HomePage - password input
+03:35:20.465 [main] DEBUG Academy.HomePage - login btn clicked
+03:36:16.844 [main] INFO  resources.base - Load the properties file success
+03:36:19.758 [main] INFO  Academy.HomePage - =============Test Begin===============
+03:36:20.249 [main] DEBUG Academy.HomePage - Click on login button
+03:36:20.481 [main] INFO  Academy.HomePage - email address input
+03:36:20.534 [main] INFO  Academy.HomePage - password input
+03:36:21.419 [main] DEBUG Academy.HomePage - login btn clicked
+03:36:50.330 [main] INFO  resources.base - Load the properties file success
+03:36:53.321 [main] INFO  Academy.HomePage - =============Test Begin===============
+03:36:53.866 [main] DEBUG Academy.HomePage - Click on login button
+03:36:54.122 [main] INFO  Academy.HomePage - email address input
+03:36:54.174 [main] INFO  Academy.HomePage - password input
+03:36:55.029 [main] DEBUG Academy.HomePage - login btn clicked
+03:46:11.889 [main] INFO  resources.base - Load the properties file success
+03:46:14.989 [main] INFO  Academy.HomePage - =============Test Begin===============
+03:46:15.754 [main] DEBUG Academy.HomePage - Click on login button
+03:46:16.031 [main] INFO  Academy.HomePage - email address input
+03:46:16.085 [main] INFO  Academy.HomePage - password input
+03:46:17.012 [main] DEBUG Academy.HomePage - login btn clicked
+03:46:19.327 [main] INFO  resources.base - Load the properties file success
+03:49:38.324 [main] INFO  resources.base - Load the properties file success
+03:49:41.406 [main] INFO  Academy.HomePage - =============Test Begin===============
+03:49:42.620 [main] DEBUG Academy.HomePage - Click on login button
+03:49:42.713 [main] INFO  Academy.HomePage - email address input
+03:49:42.777 [main] INFO  Academy.HomePage - password input
+03:49:43.810 [main] DEBUG Academy.HomePage - login btn clicked
+03:49:46.122 [main] INFO  resources.base - Load the properties file success
+03:49:48.771 [main] INFO  Academy.HomePage - =============Test Begin===============
+03:50:37.949 [main] INFO  resources.base - Load the properties file success
+03:50:40.934 [main] INFO  Academy.HomePage - =============Test Begin===============
+03:50:41.677 [main] DEBUG Academy.HomePage - Click on login button
+03:50:41.922 [main] INFO  Academy.HomePage - email address input
+03:50:41.990 [main] INFO  Academy.HomePage - password input
+03:50:42.794 [main] DEBUG Academy.HomePage - login btn clicked
+03:50:45.108 [main] INFO  resources.base - Load the properties file success
+03:50:47.798 [main] INFO  Academy.HomePage - =============Test Begin===============
+03:50:48.469 [main] DEBUG Academy.HomePage - Click on login button
+03:50:48.713 [main] INFO  Academy.HomePage - email address input
+03:50:48.768 [main] INFO  Academy.HomePage - password input
+03:50:49.593 [main] DEBUG Academy.HomePage - login btn clicked
+03:50:49.648 [main] INFO  resources.base - Load the properties file success
+03:50:52.364 [main] INFO  Academy.validateNavigationBar - ebay home page opened to check navbar
+03:50:52.417 [main] INFO  Academy.validateNavigationBar - navbar checked
+03:50:52.473 [main] INFO  resources.base - Load the properties file success
+03:50:55.281 [main] INFO  Academy.validateTitle - Driver is initialized to ebay HomePage
+03:53:48.970 [main] INFO  resources.base - Load the properties file success
+03:53:51.897 [main] INFO  Academy.HomePage - =============Test Begin===============
+03:53:52.440 [main] DEBUG Academy.HomePage - Click on login button
+03:53:52.697 [main] INFO  Academy.HomePage - email address input
+03:53:52.760 [main] INFO  Academy.HomePage - password input
+03:53:53.520 [main] DEBUG Academy.HomePage - login btn clicked
+04:03:26.323 [main] INFO  resources.base - Load the properties file success
+04:03:29.595 [main] INFO  Academy.validateNavigationBar - ebay home page opened to check navbar
+04:03:30.966 [main] INFO  Academy.validateNavigationBar - navbar checked
+04:03:33.279 [main] INFO  resources.base - Load the properties file success
+04:03:36.099 [main] INFO  Academy.validateTitle - Driver is initialized to ebay HomePage
+04:04:33.713 [main] INFO  resources.base - Load the properties file success
+04:04:36.598 [main] INFO  Academy.validateNavigationBar - ebay home page opened to check navbar
+04:04:38.262 [main] INFO  Academy.validateNavigationBar - navbar checked
+04:04:40.577 [main] INFO  resources.base - Load the properties file success
+04:04:43.181 [main] INFO  Academy.validateTitle - Driver is initialized to ebay HomePage
+06:14:56.207 [main] INFO  resources.base - Load the properties file success
+06:14:59.203 [main] INFO  Academy.HomePage - =============Test Begin===============
+06:14:59.743 [main] DEBUG Academy.HomePage - Click on login button
+06:14:59.997 [main] INFO  Academy.HomePage - email address input
+06:15:00.065 [main] INFO  Academy.HomePage - password input
+06:15:00.953 [main] DEBUG Academy.HomePage - login btn clicked
+06:15:03.265 [main] INFO  resources.base - Load the properties file success
+06:15:05.870 [main] INFO  Academy.HomePage - =============Test Begin===============
+06:15:06.318 [main] DEBUG Academy.HomePage - Click on login button
+06:15:06.544 [main] INFO  Academy.HomePage - email address input
+06:15:06.596 [main] INFO  Academy.HomePage - password input
+06:15:07.423 [main] DEBUG Academy.HomePage - login btn clicked
+06:15:09.736 [main] INFO  resources.base - Load the properties file success
+06:15:12.444 [main] INFO  Academy.validateNavigationBar - ebay home page opened to check navbar
+06:15:12.493 [main] INFO  Academy.validateNavigationBar - navbar checked
+06:15:12.556 [main] INFO  resources.base - Load the properties file success
+06:15:15.118 [main] INFO  Academy.validateTitle - Driver is initialized to ebay HomePage
+06:16:46.678 [main] INFO  resources.base - Load the properties file success
+06:16:49.672 [main] INFO  Academy.HomePage - =============Test Begin===============
+06:16:50.197 [main] DEBUG Academy.HomePage - Click on login button
+06:16:50.437 [main] INFO  Academy.HomePage - email address input
+06:16:50.488 [main] INFO  Academy.HomePage - password input
+06:16:51.241 [main] DEBUG Academy.HomePage - login btn clicked
+06:17:16.359 [main] INFO  resources.base - Load the properties file success
+06:17:19.231 [main] INFO  Academy.HomePage - =============Test Begin===============
+06:17:19.718 [main] DEBUG Academy.HomePage - Click on login button
+06:17:19.948 [main] INFO  Academy.HomePage - email address input
+06:17:20.004 [main] INFO  Academy.HomePage - password input
+06:17:20.714 [main] DEBUG Academy.HomePage - login btn clicked
+06:19:20.844 [main] INFO  resources.base - Load the properties file success
+06:19:23.829 [main] INFO  Academy.HomePage - =============Test Begin===============
+06:19:24.543 [main] DEBUG Academy.HomePage - Click on login button
+06:19:24.785 [main] INFO  Academy.HomePage - email address input
+06:19:24.843 [main] INFO  Academy.HomePage - password input
+06:19:25.699 [main] DEBUG Academy.HomePage - login btn clicked
+06:21:51.220 [main] INFO  resources.base - Load the properties file success
+06:21:54.231 [main] INFO  Academy.HomePage - =============Test Begin===============
+06:21:55.499 [main] DEBUG Academy.HomePage - Click on login button
+06:21:55.603 [main] INFO  Academy.HomePage - email address input
+06:21:55.655 [main] INFO  Academy.HomePage - password input
+06:21:56.721 [main] DEBUG Academy.HomePage - login btn clicked
+06:21:59.033 [main] INFO  resources.base - Load the properties file success
+06:22:02.035 [main] INFO  Academy.HomePage - =============Test Begin===============
+06:22:03.153 [main] DEBUG Academy.HomePage - Click on login button
+06:22:03.232 [main] INFO  Academy.HomePage - email address input
+06:22:03.281 [main] INFO  Academy.HomePage - password input
+06:22:04.399 [main] DEBUG Academy.HomePage - login btn clicked
+06:22:06.714 [main] INFO  resources.base - Load the properties file success
+06:22:09.549 [main] INFO  Academy.validateNavigationBar - ebay home page opened to check navbar
+06:22:09.585 [main] INFO  Academy.validateNavigationBar - navbar checked
+06:22:09.639 [main] INFO  resources.base - Load the properties file success
+06:22:12.394 [main] INFO  Academy.validateTitle - Driver is initialized to ebay HomePage
+06:22:12.447 [main] INFO  Academy.validateTitle - title checked
+06:22:45.311 [main] INFO  resources.base - Load the properties file success
+06:22:48.092 [main] INFO  Academy.HomePage - =============Test Begin===============
+06:22:48.788 [main] DEBUG Academy.HomePage - Click on login button
+06:22:49.050 [main] INFO  Academy.HomePage - email address input
+06:22:49.100 [main] INFO  Academy.HomePage - password input
+06:22:49.804 [main] DEBUG Academy.HomePage - login btn clicked
+06:23:40.680 [main] INFO  resources.base - Load the properties file success
+06:23:43.581 [main] INFO  Academy.HomePage - =============Test Begin===============
+06:23:44.234 [main] DEBUG Academy.HomePage - Click on login button
+06:23:44.481 [main] INFO  Academy.HomePage - email address input
+06:23:44.535 [main] INFO  Academy.HomePage - password input
+06:23:45.221 [main] DEBUG Academy.HomePage - login btn clicked
+06:23:47.552 [main] INFO  resources.base - Load the properties file success
+06:23:50.191 [main] INFO  Academy.validateNavigationBar - ebay home page opened to check navbar
+06:23:50.237 [main] INFO  Academy.validateNavigationBar - navbar checked
+06:23:53.798 [main] INFO  resources.base - Load the properties file success
+06:23:56.871 [main] INFO  Academy.validateTitle - Driver is initialized to ebay HomePage
+06:23:56.933 [main] INFO  Academy.validateTitle - title checked
+06:26:25.246 [main] INFO  resources.base - Load the properties file success
+06:26:28.161 [main] INFO  Academy.HomePage - =============Test Begin===============
+06:26:28.712 [main] DEBUG Academy.HomePage - Click on login button
+06:26:28.956 [main] INFO  Academy.HomePage - email address input
+06:26:29.008 [main] INFO  Academy.HomePage - password input
+06:26:29.879 [main] DEBUG Academy.HomePage - login btn clicked
+06:26:29.963 [main] INFO  resources.base - Load the properties file success
+06:26:32.604 [main] INFO  Academy.validateNavigationBar - ebay home page opened to check navbar
+06:26:32.662 [main] INFO  Academy.validateNavigationBar - navbar checked
+06:26:35.345 [main] INFO  resources.base - Load the properties file success
+06:26:38.184 [main] INFO  Academy.validateTitle - Driver is initialized to ebay HomePage
+06:26:38.238 [main] INFO  Academy.validateTitle - title checked
+06:32:13.559 [main] INFO  resources.base - Load the properties file success
+06:32:16.361 [main] INFO  Academy.HomePage - =============Test Begin===============
+06:32:16.853 [main] DEBUG Academy.HomePage - Click on login button
+06:32:17.097 [main] INFO  Academy.HomePage - email address input
+06:32:17.154 [main] INFO  Academy.HomePage - password input
+06:32:18.166 [main] DEBUG Academy.HomePage - login btn clicked
+06:32:20.500 [main] INFO  resources.base - Load the properties file success
+06:32:23.061 [main] INFO  Academy.validateNavigationBar - ebay home page opened to check navbar
+06:32:23.121 [main] INFO  Academy.validateNavigationBar - navbar checked
+06:32:25.793 [main] INFO  resources.base - Load the properties file success
+06:32:28.261 [main] INFO  Academy.validateTitle - Driver is initialized to ebay HomePage
+06:32:28.310 [main] INFO  Academy.validateTitle - title checked
+22:02:59.745 [main] INFO  resources.base - Load the properties file success
+22:03:02.745 [main] INFO  Academy.HomePage - =============Test Begin===============
+22:03:03.380 [main] DEBUG Academy.HomePage - Click on login button
+22:03:03.646 [main] INFO  Academy.HomePage - email address input
+22:03:03.701 [main] INFO  Academy.HomePage - password input
+22:03:04.528 [main] DEBUG Academy.HomePage - login btn clicked
+22:03:06.868 [main] INFO  resources.base - Load the properties file success
+22:03:09.611 [main] INFO  Academy.validateNavigationBar - ebay home page opened to check navbar
+22:03:09.663 [main] INFO  Academy.validateNavigationBar - navbar checked
+22:03:13.190 [main] INFO  resources.base - Load the properties file success
+22:03:15.914 [main] INFO  Academy.validateTitle - Driver is initialized to ebay HomePage
+22:03:15.974 [main] INFO  Academy.validateTitle - title checked
+22:04:48.677 [main] INFO  resources.base - Load the properties file success
+22:04:51.622 [main] INFO  Academy.HomePage - =============Test Begin===============
+22:04:52.320 [main] DEBUG Academy.HomePage - Click on login button
+22:04:52.559 [main] INFO  Academy.HomePage - email address input
+22:04:52.613 [main] INFO  Academy.HomePage - password input
+22:04:53.386 [main] DEBUG Academy.HomePage - login btn clicked
+22:04:55.722 [main] INFO  resources.base - Load the properties file success
+22:04:58.286 [main] INFO  Academy.validateNavigationBar - ebay home page opened to check navbar
+22:04:58.337 [main] INFO  Academy.validateNavigationBar - navbar checked
+22:05:01.832 [main] INFO  resources.base - Load the properties file success
+22:05:04.497 [main] INFO  Academy.validateTitle - Driver is initialized to ebay HomePage
+22:05:04.537 [main] INFO  Academy.validateTitle - title checked
+22:05:44.797 [main] INFO  resources.base - Load the properties file success
+22:05:47.624 [main] INFO  Academy.HomePage - =============Test Begin===============
+22:05:48.352 [main] DEBUG Academy.HomePage - Click on login button
+22:05:48.588 [main] INFO  Academy.HomePage - email address input
+22:05:48.641 [main] INFO  Academy.HomePage - password input
+22:05:49.563 [main] DEBUG Academy.HomePage - login btn clicked
+22:05:51.896 [main] INFO  resources.base - Load the properties file success
+22:05:54.525 [main] INFO  Academy.validateNavigationBar - ebay home page opened to check navbar
+22:05:54.574 [main] INFO  Academy.validateNavigationBar - navbar checked
+22:05:58.194 [main] INFO  resources.base - Load the properties file success
+22:06:00.770 [main] INFO  Academy.validateTitle - Driver is initialized to ebay HomePage
+22:06:00.825 [main] INFO  Academy.validateTitle - title checked
+22:06:49.454 [main] INFO  resources.base - Load the properties file success
+22:06:52.256 [main] INFO  Academy.HomePage - =============Test Begin===============
+22:06:52.966 [main] DEBUG Academy.HomePage - Click on login button
+22:06:53.364 [main] INFO  Academy.HomePage - email address input
+22:06:53.419 [main] INFO  Academy.HomePage - password input
+22:06:54.224 [main] DEBUG Academy.HomePage - login btn clicked
+22:06:56.539 [main] INFO  resources.base - Load the properties file success
+22:06:59.052 [main] INFO  Academy.HomePage - =============Test Begin===============
+22:06:59.650 [main] DEBUG Academy.HomePage - Click on login button
+22:06:59.875 [main] INFO  Academy.HomePage - email address input
+22:06:59.924 [main] INFO  Academy.HomePage - password input
+22:07:00.614 [main] DEBUG Academy.HomePage - login btn clicked
+22:07:02.930 [main] INFO  resources.base - Load the properties file success
+22:07:05.651 [main] INFO  Academy.validateNavigationBar - ebay home page opened to check navbar
+22:07:05.701 [main] INFO  Academy.validateNavigationBar - navbar checked
+22:07:05.761 [main] INFO  resources.base - Load the properties file success
+22:07:08.224 [main] INFO  Academy.validateTitle - Driver is initialized to ebay HomePage
+22:07:08.261 [main] INFO  Academy.validateTitle - title checked
+22:07:32.498 [main] INFO  resources.base - Load the properties file success
+22:07:35.604 [main] INFO  Academy.HomePage - =============Test Begin===============
+22:07:36.351 [main] DEBUG Academy.HomePage - Click on login button
+22:07:36.609 [main] INFO  Academy.HomePage - email address input
+22:07:36.667 [main] INFO  Academy.HomePage - password input
+22:07:37.424 [main] DEBUG Academy.HomePage - login btn clicked
+22:07:39.740 [main] INFO  resources.base - Load the properties file success
+22:07:42.418 [main] INFO  Academy.HomePage - =============Test Begin===============
+22:07:43.069 [main] DEBUG Academy.HomePage - Click on login button
+22:07:43.298 [main] INFO  Academy.HomePage - email address input
+22:07:43.352 [main] INFO  Academy.HomePage - password input
+22:07:44.098 [main] DEBUG Academy.HomePage - login btn clicked
+22:07:46.413 [main] INFO  resources.base - Load the properties file success
+22:07:49.024 [main] INFO  Academy.validateNavigationBar - ebay home page opened to check navbar
+22:07:49.081 [main] INFO  Academy.validateNavigationBar - navbar checked
+22:07:49.141 [main] INFO  resources.base - Load the properties file success
+22:07:51.885 [main] INFO  Academy.validateTitle - Driver is initialized to ebay HomePage
+22:07:51.939 [main] INFO  Academy.validateTitle - title checked
+22:25:27.556 [main] INFO  resources.base - Load the properties file success
+22:25:30.594 [main] INFO  Academy.HomePage - =============Test Begin===============
+22:25:31.109 [main] DEBUG Academy.HomePage - Click on login button
+22:25:31.353 [main] INFO  Academy.HomePage - email address input
+22:25:31.406 [main] INFO  Academy.HomePage - password input
+22:25:32.307 [main] DEBUG Academy.HomePage - login btn clicked
+22:25:32.309 [main] INFO  resources.base - Load the properties file success
+22:25:35.127 [main] INFO  Academy.HomePage - =============Test Begin===============
+22:25:35.612 [main] DEBUG Academy.HomePage - Click on login button
+22:25:35.833 [main] INFO  Academy.HomePage - email address input
+22:25:35.886 [main] INFO  Academy.HomePage - password input
+22:25:36.817 [main] DEBUG Academy.HomePage - login btn clicked
+22:25:39.134 [main] INFO  resources.base - Load the properties file success
+22:25:41.691 [main] INFO  Academy.validateNavigationBar - ebay home page opened to check navbar
+22:25:41.743 [main] INFO  Academy.validateNavigationBar - navbar checked
+22:25:44.059 [main] INFO  resources.base - Load the properties file success
+22:25:46.628 [main] INFO  Academy.validateTitle - Driver is initialized to ebay HomePage
+22:25:46.665 [main] INFO  Academy.validateTitle - title checked
+01:39:43.956 [main] INFO  resources.base - Load the properties file success
+01:39:47.040 [main] INFO  Academy.HomePage - =============Test Begin===============
+01:39:47.676 [main] DEBUG Academy.HomePage - Click on login button
+01:39:47.958 [main] INFO  Academy.HomePage - email address input
+01:39:48.008 [main] INFO  Academy.HomePage - password input
+01:39:48.973 [main] DEBUG Academy.HomePage - login btn clicked
+01:39:49.048 [main] INFO  resources.base - Load the properties file success
+01:39:51.692 [main] INFO  Academy.HomePage - =============Test Begin===============
+01:39:52.432 [main] DEBUG Academy.HomePage - Click on login button
+01:39:52.492 [main] INFO  Academy.HomePage - email address input
+01:39:52.544 [main] INFO  Academy.HomePage - password input
+01:39:53.660 [main] DEBUG Academy.HomePage - login btn clicked
+01:39:53.754 [main] INFO  resources.base - Load the properties file success
+01:39:56.315 [main] INFO  Academy.validateNavigationBar - ebay home page opened to check navbar
+01:39:56.371 [main] INFO  Academy.validateNavigationBar - navbar checked
+01:39:58.690 [main] INFO  resources.base - Load the properties file success
+01:40:01.208 [main] INFO  Academy.validateTitle - Driver is initialized to ebay HomePage
+01:40:01.261 [main] INFO  Academy.validateTitle - title checked
